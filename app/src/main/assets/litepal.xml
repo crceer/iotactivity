@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="iotactivity" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.iotactivity.android.db.activity" />
+        <mapping class="com.iotactivity.android.db.people" />
+    </list>
+
+</litepal>
